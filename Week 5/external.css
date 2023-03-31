@@ -1,0 +1,47 @@
+*{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    background: linear-gradient(black,white);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    color: black;
+    font-size: 60px;
+}
+#Khadka{
+    font-family: 'Mukta', sans-serif;
+    background-color: blanchedalmond;
+    color: blueviolet;
+    font-size: 20px;
+}
+.Nitesh{
+    background-color: brown;
+    color: black;
+    font-size: 20px;
+
+}
+#Magar{
+    background-color: aqua;
+    color: blue;
+    font-size: 20px;
+}
+#Magar:hover{
+    background-color: aquamarine;
+    color: black;
+}
+p{
+    background-color: aquamarine;
+    color: blue;
+    font-size: 20px;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+
+img[alt]{
+    color: blue;
+    background-color: black;
+}
